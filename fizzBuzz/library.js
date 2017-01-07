@@ -13,7 +13,7 @@ function fizzBuzz(n) {
     fizz_buzz+='Buzz';
   }
   if (fizz_buzz) {
-    return fizz_buzz
+    return fizz_buzz;
   }
   else {
     return n;
