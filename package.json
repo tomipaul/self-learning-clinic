@@ -1,0 +1,15 @@
+{
+  "name": "self-learning-clinic",
+  "version": "1.0.0",
+  "description": "Todo tasks of Self Learning Clinic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oluwatomi Akande",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
